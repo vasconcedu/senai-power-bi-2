@@ -21,9 +21,9 @@
 11. Melhore os títulos e os rótulos do seu relatório, de maneira a torná-los mais representativos e amigáveis;
 12. Melhore o _design_ do seu relatório, explorando as opções de formatação disponíveis para os visuais que você criou;
 13. Use uma caixa de texto para adicionar um título ao seu relatório;
-14. Adicione um plano de fundo ao seu relatório (ex.: imagem, cor de fundo. etc).
+14. Adicione um plano de fundo ao seu relatório (ex.: imagem, cor de fundo, etc).
 
 ## Exercício 2
 
-1. Imagine que você trabalha para um órgão ambiental. Use o que você já aprendeu sobre Power BI para gerar _insights_ a respeito do desmatamento no país e ajudar a tomar decisões sobre políticas públicas com o objetivo de reduzi-lo. Quais ações você recomendaria? Proponha ao menos uma ação, justificando-a com base no conjunto de dados.
+1. Imagine que você trabalha para um órgão ambiental. Use o que você já aprendeu sobre Power BI para gerar _insights_ a respeito do desmatamento no Brasil e ajudar a tomar decisões sobre políticas públicas com o objetivo de reduzi-lo. Quais ações você recomendaria? Proponha ao menos uma ação, justificando-a com base no conjunto de dados.
 
